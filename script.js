@@ -33,4 +33,9 @@ x = x + y;
 */
 document.getElementById("text").innerHTML = x;
 
+/* 여러 줄
+    // 이렇게 두 줄 주석 안에 또 다른 한 줄 주석을 삽입할 수 있습니다.
+주석입니다. */
+
+
 
