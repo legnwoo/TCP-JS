@@ -37,5 +37,13 @@ document.getElementById("text").innerHTML = x;
     // 이렇게 두 줄 주석 안에 또 다른 한 줄 주석을 삽입할 수 있습니다.
 주석입니다. */
 
+<Script>
+    function alertDialogBox(){
+        alert("확인을 누를 때까지 다른 작업을 수행할 수 없어요!")
+    }
+</Script>
+
+
+
 
 
