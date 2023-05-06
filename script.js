@@ -19,3 +19,6 @@ var firstVar = 10;      // var는 변수의 정의를 위해 예약된 키워드
 function myFirstFunc() {  // function은 함수의 정의를 위해 예약된 키워드입니다.
 var secondVar = 20; // var는 변수의 정의를 위해 예약된 키워드입니다.
 }
+
+1.한 줄 주석://주석문
+2.여러줄 주석:/*주석문*/
