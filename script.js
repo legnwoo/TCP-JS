@@ -14,3 +14,8 @@ var firstVar = 10;// Camel Case 방식
 function my_first_func() {// Underscore Case 방식
 var firstLocalVar = 20;// Camel Case 방식
 }
+
+var firstVar = 10;      // var는 변수의 정의를 위해 예약된 키워드입니다.
+function myFirstFunc() {  // function은 함수의 정의를 위해 예약된 키워드입니다.
+var secondVar = 20; // var는 변수의 정의를 위해 예약된 키워드입니다.
+}
