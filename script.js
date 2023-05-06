@@ -50,6 +50,16 @@ document.getElementById("text").innerHTML = x;
         console.log(4*5);   
     </script>
 
+
+document.getElementById("text").innerHTML = "여러분을 환영합니다!";
+
+function printDate() {
+document.getElementById("date").innerHTML = Date();}
+
+
+
+
+
    
 
 
